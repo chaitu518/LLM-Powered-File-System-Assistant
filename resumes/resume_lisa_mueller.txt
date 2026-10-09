@@ -1,0 +1,16 @@
+Lisa Mueller
+QA Automation Engineer
+Email: lisa.mueller@example.com
+
+SUMMARY
+QA engineer with 4 years of experience in test automation.
+
+SKILLS
+Selenium, Java, TestNG, Postman, Cypress, Jenkins
+
+EXPERIENCE
+- Brightwell Insurance (2022-Present): Built a Selenium and TestNG regression suite with 900 test cases.
+- Orbit Travel (2020-2022): Automated API tests with Postman and Newman.
+
+EDUCATION
+B.Tech Electronics, 2020
