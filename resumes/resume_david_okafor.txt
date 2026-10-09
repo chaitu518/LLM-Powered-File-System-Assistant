@@ -1,0 +1,16 @@
+David Okafor
+Machine Learning Engineer
+Email: david.okafor@example.com
+
+SUMMARY
+ML engineer with 3 years of experience deploying models to production.
+
+SKILLS
+Python, TensorFlow, MLflow, Airflow, Docker, GCP
+
+EXPERIENCE
+- Verity AI (2023-Present): Deployed TensorFlow ranking models behind a Python gRPC service.
+- Sunline Health (2021-2023): Built Airflow pipelines for feature generation.
+
+EDUCATION
+B.Sc Mathematics, 2021

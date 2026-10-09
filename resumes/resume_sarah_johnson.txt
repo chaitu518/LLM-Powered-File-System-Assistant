@@ -1,0 +1,16 @@
+Sarah Johnson
+Product Manager
+Email: sarah.johnson@example.com
+
+SUMMARY
+Product manager with 8 years of experience in B2B SaaS.
+
+SKILLS
+Roadmapping, User Research, SQL, A/B Testing, Jira, Figma
+
+EXPERIENCE
+- Quillstack (2019-Present): Owned the billing product roadmap and grew net revenue retention to 112 percent.
+- Mapleview Software (2016-2019): Ran discovery interviews and launched a self-serve onboarding flow.
+
+EDUCATION
+MBA, 2016
